@@ -1,0 +1,27 @@
+EXPERIMENT 9(b)
+Title: Implement Matplotlib and Pandas libraries in Python
+
+ALGORITHM:
+1. Start the program.
+2. Import the Pandas library as pd.
+3. Import the Matplotlib pyplot module as plt.
+4. Create a dictionary containing subject names and their marks.
+5. Convert the dictionary into a Pandas DataFrame.
+6. Display the DataFrame.
+7. Use plt.bar() to create a bar chart using the subject names and marks.
+8. Add labels to the X-axis and Y-axis.
+9. Add a title to the chart.
+10. Use plt.show() to display the bar chart.
+11. Stop the program.
+
+OUTPUT:
+Student Marks:
+  Subject  Marks
+0  Python     85
+1    DBMS     90
+2      OS     75
+3     EVS     80
+
+A bar chart titled "Student Marks Analysis" is displayed.
+The X-axis represents Subjects and the Y-axis represents Marks.
+The chart displays bars for Python (85), DBMS (90), OS (75), and EVS (80).

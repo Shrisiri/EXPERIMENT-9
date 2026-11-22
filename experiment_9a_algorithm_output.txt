@@ -1,0 +1,35 @@
+EXPERIMENT 9(a)
+Title: Implement NumPy and Pandas packages
+
+ALGORITHM:
+1. Start the program.
+2. Import the NumPy library as np and Pandas library as pd.
+3. Create a NumPy array containing 10, 20, 30, 40, and 50.
+4. Display the array.
+5. Use NumPy functions to calculate and display the sum, mean, maximum, and minimum.
+6. Create a dictionary containing student names, ages, and marks.
+7. Convert the dictionary into a Pandas DataFrame.
+8. Display the DataFrame.
+9. Calculate and display the average marks.
+10. Display the student names.
+11. Stop the program.
+
+OUTPUT:
+NumPy Array: [10 20 30 40 50]
+Sum: 150
+Mean: 30.0
+Maximum: 50
+Minimum: 10
+
+Pandas DataFrame:
+    Name  Age  Marks
+0   John   20     85
+1  Alice   21     90
+2    Bob   19     78
+
+Average Marks: 84.33333333333333
+
+Student Names:
+0     John
+1    Alice
+2      Bob
